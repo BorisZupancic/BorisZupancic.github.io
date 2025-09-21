@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boris Zupancic</title>
-    <link>https://your_domain.com/</link>
+    <link>https://boriszupancic.github.io/</link>
     <description>Recent content on Boris Zupancic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</managingEditor>
     <webMaster>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</webMaster>
     <copyright>© 2025 Boris Zupancic</copyright>
-    <lastBuildDate>Sat, 13 Sep 2025 21:02:47 -0400</lastBuildDate><atom:link href="https://your_domain.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 21:02:47 -0400</lastBuildDate><atom:link href="https://boriszupancic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PhysicsBox</title>
-      <link>https://your_domain.com/projects/physics_box/</link>
+      <link>https://boriszupancic.github.io/projects/physics_box/</link>
       <pubDate>Mon, 15 Sep 2025 18:40:29 -0400</pubDate>
       <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
-      <guid>https://your_domain.com/projects/physics_box/</guid>
+      <guid>https://boriszupancic.github.io/projects/physics_box/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>IASM Workshop Talk 2025</title>
-      <link>https://your_domain.com/research/iasm_talk_august_2025/</link>
+      <link>https://boriszupancic.github.io/research/iasm_talk_august_2025/</link>
       <pubDate>Mon, 15 Sep 2025 18:28:30 -0400</pubDate>
       <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
-      <guid>https://your_domain.com/research/iasm_talk_august_2025/</guid>
+      <guid>https://boriszupancic.github.io/research/iasm_talk_august_2025/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Undergraduate Thesis Poster</title>
-      <link>https://your_domain.com/research/undergraduate_poster/</link>
+      <link>https://boriszupancic.github.io/research/undergraduate_poster/</link>
       <pubDate>Mon, 15 Sep 2025 18:13:59 -0400</pubDate>
       <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
-      <guid>https://your_domain.com/research/undergraduate_poster/</guid>
+      <guid>https://boriszupancic.github.io/research/undergraduate_poster/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Master&#39;s Dissertation</title>
-      <link>https://your_domain.com/research/masters_dissertation/</link>
+      <link>https://boriszupancic.github.io/research/masters_dissertation/</link>
       <pubDate>Sun, 14 Sep 2025 21:38:47 -0400</pubDate>
       <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
-      <guid>https://your_domain.com/research/masters_dissertation/</guid>
+      <guid>https://boriszupancic.github.io/research/masters_dissertation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Undergraduate Thesis</title>
-      <link>https://your_domain.com/research/undergraduate_thesis/</link>
+      <link>https://boriszupancic.github.io/research/undergraduate_thesis/</link>
       <pubDate>Sun, 14 Sep 2025 21:33:31 -0400</pubDate>
       <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
-      <guid>https://your_domain.com/research/undergraduate_thesis/</guid>
+      <guid>https://boriszupancic.github.io/research/undergraduate_thesis/</guid>
       <description></description>
       
     </item>
