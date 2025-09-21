@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Boris Zupancic</title>
+    <link>https://your_domain.com/research/</link>
+    <description>Recent content in Research on Boris Zupancic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</managingEditor>
+    <webMaster>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</webMaster>
+    <copyright>© 2025 Boris Zupancic</copyright>
+    <lastBuildDate>Sat, 13 Sep 2025 20:41:56 -0400</lastBuildDate><atom:link href="https://your_domain.com/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IASM Workshop Talk 2025</title>
+      <link>https://your_domain.com/research/iasm_talk_august_2025/</link>
+      <pubDate>Mon, 15 Sep 2025 18:28:30 -0400</pubDate>
+      <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
+      <guid>https://your_domain.com/research/iasm_talk_august_2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Undergraduate Thesis Poster</title>
+      <link>https://your_domain.com/research/undergraduate_poster/</link>
+      <pubDate>Mon, 15 Sep 2025 18:13:59 -0400</pubDate>
+      <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
+      <guid>https://your_domain.com/research/undergraduate_poster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Master&#39;s Dissertation</title>
+      <link>https://your_domain.com/research/masters_dissertation/</link>
+      <pubDate>Sun, 14 Sep 2025 21:38:47 -0400</pubDate>
+      <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
+      <guid>https://your_domain.com/research/masters_dissertation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Undergraduate Thesis</title>
+      <link>https://your_domain.com/research/undergraduate_thesis/</link>
+      <pubDate>Sun, 14 Sep 2025 21:33:31 -0400</pubDate>
+      <author>boris.zupancic@mail.mcgill.ca (Boris Zupancic)</author>
+      <guid>https://your_domain.com/research/undergraduate_thesis/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
