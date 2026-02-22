@@ -17,6 +17,9 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: recursive  # <--- Add this line
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
