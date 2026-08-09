@@ -3,9 +3,10 @@ date: '2025-09-13T20:41:56-04:00'
 title: 'Research'
 layout: "single"
 showAuthor: false
+showDate: false
 ---
 
-My current research focus is on my PhD thesis topic: *Resolution of Singularities in Poisson Geometry (and Mathematical Physics).* My supervisor is [Brent Pym](https://www.math.mcgill.ca/bpym/).
+My current research focus is on my PhD thesis topic: *Resolution of Singularities in Poisson Geometry.* My supervisor is [Brent Pym](https://www.math.mcgill.ca/bpym/).
 
 Prior to my PhD, I completed an MSc (Project) in mathematics at Queen's University in Kingston, ON, under the supervision of [Thomas Barthelmé](https://www.queensu.ca/mathstat/people/faculty/profiles/barthelme). My dissertation was *Marked Length Spectrum Rigidity of Surfaces*.
 
