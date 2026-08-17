@@ -1,7 +1,8 @@
 +++
-date = '2025-09-17T22:08:19-04:00'
+date = '2023-01-01'
 draft = true
 title = 'FDM_n_Bodies'
+showDate = false
 +++
 
 During my B.Sc. thesis project, I created the software [FDM_n_Bodies](https://github.com/BorisZupancic/FDM_n_Bodies) for simulating Fuzzy Dark Matter together with massive point particles in 1-dimensional space. I programmed it from scratch, and it provided my first major experience with coding for computational physics. 

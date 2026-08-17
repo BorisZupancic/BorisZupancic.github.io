@@ -2,7 +2,6 @@
 date: '2025-09-13T20:41:56-04:00'
 title: 'Research'
 layout: "single"
-showAuthor: false
 showDate: false
 ---
 
