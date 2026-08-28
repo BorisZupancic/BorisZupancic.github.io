@@ -4,7 +4,11 @@
 
 theme = ["hugo-embed-pdf-shortcode", "blowfish"] # UNCOMMENT THIS LINE
 
-baseURL = "https://boriszupancic.github.io/"
+title = "Boris Zupancic"
+baseURL = "https://boriszupancic.github.io"
+description = "Official academic website of Boris Zupancic, Mathematics"
+schema = true
+
 languageCode = "en"
 defaultContentLanguage = "en"
 

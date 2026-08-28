@@ -24,7 +24,8 @@ Prior to my MSc, I completed a BSc in mathematical physics, also at Queen's Univ
 
 ### Posters and Talks
 
-1. B. Zupancic, *Poisson Desingularization via Weighted Blowups*, poster presented at the Poisson 2026 Summer School (University of Antwerp) and Conference (KU Leuven), August 2026. [See here.](/docs/poisson_poster_2026.pdf)
-2. B. Zupancic, *Poisson Resolution via Weighted Blowups*, talk given at the "Around Singularities in Poisson Geometry" workshop (Institute for Advanced Study in Mathematics, Hangzhou, China), August 2025. [See here.](/docs/poisson_resolution_via_weighted_blowups.pdf)
-3. B. Zupancic, *Fuzzy Dark Matter and the Quasi-Particle Hypothesis*, lecture/poster presented for the PHYS 590 Research Thesis requirement, Queen's University at Kingston, April 2023. [See here.](/docs/undergraduate_thesis.pdf)
+1. B. Zupancic, *Reduction of Singularities in Poisson Geometry via Weighted Blowups*, talk given at the [ISM Discovery School: K&auml;hler geometry, algebraic and arithmetic geometry, hyperbolicity](https://ism.uqam.ca/Kahler/en/index.html) in Montreal, August 2026. [See here.](/docs/ISMTalk2026.pdf)
+2. B. Zupancic, *Poisson Desingularization via Weighted Blowups*, poster presented at the Poisson 2026 Summer School (University of Antwerp) and Conference (KU Leuven), August 2026. [See here.](/docs/poisson_poster_2026.pdf)
+3. B. Zupancic, *Poisson Resolution via Weighted Blowups*, talk given at the "Around Singularities in Poisson Geometry" workshop (Institute for Advanced Study in Mathematics, Hangzhou, China), August 2025. [See here.](/docs/poisson_resolution_via_weighted_blowups.pdf)
+4. B. Zupancic, *Fuzzy Dark Matter and the Quasi-Particle Hypothesis*, lecture/poster presented for the PHYS 590 Research Thesis requirement, Queen's University at Kingston, April 2023. [See here.](/docs/undergraduate_thesis.pdf)
 
